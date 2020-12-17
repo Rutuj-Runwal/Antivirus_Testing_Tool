@@ -3,13 +3,13 @@ A basic Anti-virus Testing Tool for windows operating system supported Antivirus
 
 ### Up Next [What to expect in v1.6x[BETA] upto v2.xx]:
 - Updated Help section to solve all possible network and AV-configurational errors
-- Cleaner and colorfull GUI
+- Cleaner and colorful GUI
 - More basic level Tests
 
 
 ## Future Development :
 - Enhancement of GUI
-  - Asthetic look and feel
+  - Aesthetic look and feel
   - Better Responsiveness
     - Additional alerts and prompts
  
