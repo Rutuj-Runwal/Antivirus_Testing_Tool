@@ -1,10 +1,10 @@
 # Antivirus_Testing_Tool
 A basic Anti-virus Testing Tool for windows operating system supported Antivirus Softwares that tests web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease
 
-### Up Next [What to expect in v1.6x[BETA] upto v2.xx]:
+### Up Next [What to expect in v1.7x[BETA] upto v2.xx]:
 - Updated Help section to solve all possible network and AV-configurational errors
 - Cleaner and colorful GUI
-- More basic level Tests
+- More Tests
 
 
 ## Future Development :
@@ -22,6 +22,27 @@ A basic Anti-virus Testing Tool for windows operating system supported Antivirus
    - To provide comprehensive test results
    - Email intigrations( Results directly sent via mail, to the user
    - "Safety Tips corner" to provide personalized tips from the internet based on test results
+   
+### Version Log
+
+V1.0 
+ - Initial Release
+ - Added EICAR testing file
+
+V1.2
+  - Major Polished Release
  
+V1.5 
+  - Major Update
+  - Added a new "dashboard" window
+  - Fixed Microsoft Smartscreen Errors and program crashes
+  
+V1.6[Current]
+  - Added advanced tests 
+  - Advanced test includes(currently)  smart ransomware test
+  - Dashboard GUI enhanced
+
+
+
 Note: Though the file is absolutely HARMLESS on itself integrating or using it with any other similar software and/or program can be dangerous 
   
