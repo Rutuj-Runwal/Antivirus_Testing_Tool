@@ -4,7 +4,7 @@ A basic Anti-virus Testing Tool for windows operating system supported Antivirus
 ### Note: 
 Google may block the executable file download as the file itself is used to test antivirus softwares and is SAFE, the complete source code is available to re-assure and audit the safe. Any improvements or suggestions are welcome! <br>
 **To get the file:**  
-You may clone the whole repository or just press ctrl+j and click on "Keep Dangerous File".
+You may clone the whole repository or just press CTRL+j and click on "Keep Dangerous File".
 
 ### Up Next [What to expect in v1.7x[BETA] upto v2.xx]:
 - Updated Help section to solve all possible network and AV-configurational errors
@@ -27,6 +27,16 @@ You may clone the whole repository or just press ctrl+j and click on "Keep Dange
    - To provide comprehensive test results
    - Email intigrations( Results directly sent via mail, to the user
    - "Safety Tips corner" to provide personalized tips from the internet based on test results
+   
+  - Anti-virus and Browsers Conflicts:
+    - Resolve issues with Google safe browsing
+    - Resolve issues with Windows smartscreen in EDGE
+    - Known AV's False Positives:
+      - McAfee
+      - Microsoft Defender
+      - K7 Antivirus
+      - Norton
+      - Sophos
    
 ### Version Log
 
