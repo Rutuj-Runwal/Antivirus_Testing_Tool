@@ -2,7 +2,7 @@
 A basic Anti-virus Testing Tool for windows operating system supported Antivirus Softwares that tests web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease
 
 ### Note: 
-Google may block the executable file download as the file itself is used to test antivirus softwares and is SAFE, the complete source code is available to re-assure and audit the safe. Any improvements or suggestions are welcome! <br>
+Google may block the executable file download as the file itself is used to test antivirus softwares and is SAFE, the complete source code is available to re-assure and audit the safety. Any improvements or suggestions are welcome! <br>
 **To get the file:**  
 You may clone the whole repository or just press CTRL+j and click on "Keep Dangerous File".
 
@@ -52,10 +52,18 @@ V1.5
   - Added a new "dashboard" window
   - Fixed Microsoft Smartscreen Errors and program crashes
   
-V1.6[Current]
+V1.6
   - Added advanced tests 
-  - Advanced test includes(currently)  smart ransomware test
+    - Advanced test includes(currently): smart ransomware test
   - Dashboard GUI enhanced
+
+V1.6.1[Current]
+  - Added Local EICAR file test
+    - Uses python file handling to deploy EICAR test string 
+  - Minor GUI update for Advanced Tests
+  - Fixed Program Crash while runnig Advanced test
+  - Fixed Text overlapping caused by improper tkinter labels placement
+
 
 
 
