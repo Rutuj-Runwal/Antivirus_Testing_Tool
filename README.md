@@ -1,8 +1,10 @@
 # Antivirus_Testing_Tool
-A basic Anti-virus Testing Tool for windows operating system supported Antivirus Softwares that tests web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease
+A basic Anti-virus Testing Tool for windows operating system supported Antivirus Softwares that tests web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease. *__KINDLY GO THROUGH THE README TO AVOID ANY CONFLICTS WHILE RUNNING THE PROGRAM__*.
+
+For Improvements and Suggestions: rutujrunwal001@gmail.com OR Whatsapp:  7972080884
 
 ### Note: 
-Google may block the executable file download as the file itself is used to test antivirus softwares and is SAFE, the complete source code is available to re-assure and audit the safe. Any improvements or suggestions are welcome! <br>
+Google may block the executable file download as the file itself is used to test antivirus softwares and is SAFE, the complete source code is available to re-assure and audit the safety. Any improvements or suggestions are welcome! <br>
 **To get the file:**  
 You may clone the whole repository or just press CTRL+j and click on "Keep Dangerous File".
 
@@ -10,6 +12,10 @@ You may clone the whole repository or just press CTRL+j and click on "Keep Dange
 - Updated Help section to solve all possible network and AV-configurational errors
 - Cleaner and colorful GUI
 - More Tests
+- Better Documentation
+- FAQ's Section
+- __Known Issues__
+  - See Antivirus And Browser Conflicts Log for More Info 👇🏻
 
 
 ## Future Development :
@@ -28,21 +34,22 @@ You may clone the whole repository or just press CTRL+j and click on "Keep Dange
    - Email intigrations( Results directly sent via mail, to the user
    - "Safety Tips corner" to provide personalized tips from the internet based on test results
    
-  - Anti-virus and Browsers Conflicts:
-    - Resolve issues with Google safe browsing
-    - Resolve issues with Windows smartscreen in EDGE
-    - Known AV's False Positives:
-      - McAfee
-      - Microsoft Defender
-      - K7 Antivirus
-      - Norton
-      - Sophos
+  ## Anti-virus and Browsers Conflicts:
+  - Resolve issues with Google safe browsing
+  - Resolve issues with Windows smartscreen in EDGE
+  - Known AV's False Positives :
+    - McAfee
+    - Microsoft Defender
+    - K7 Antivirus
+    - Norton
+    - Sophos <br>
+__To Use the program kindly add it to exclusion list of the above listed AV's in our system[if any]. These false positives will be fixed in newer versions__
    
-### Version Log
+# Version Log
 
 V1.0 
  - Initial Release
- - Added EICAR testing file
+ - Added EICAR testing file [Ref: https://www.eicar.org/?page_id=3950]
 
 V1.2
   - Major Polished Release
@@ -52,11 +59,25 @@ V1.5
   - Added a new "dashboard" window
   - Fixed Microsoft Smartscreen Errors and program crashes
   
-V1.6[Current]
+V1.6
   - Added advanced tests 
-  - Advanced test includes(currently)  smart ransomware test
+    - Advanced test includes(currently): smart ransomware test
   - Dashboard GUI enhanced
 
+V1.6.1
+  - Added Local EICAR file test
+    - Uses python file handling to deploy EICAR test string 
+  - Minor GUI update for Advanced Tests
+  - Fixed Program Crash while runnig Advanced test
+  - Fixed Text overlapping caused by improper tkinter labels placement
+
+V1.6.2 [CURRENT]
+  - Added AMTSO standard Tests [Ref: https://www.amtso.org/]
+  - Added File Uploading and Scanning based on VirusTotal API
+    - Requires Virus total API Key [Get a free virustotal API Key Here: https://developers.virustotal.com/v3.0/reference#getting-started]
+  - Removed current version source code [ To comply with Virus total Guidelines]
+      - Will be availabe in repo as soon as next version (V1.6.3[BETA]) is added.
+  
 
 
 
