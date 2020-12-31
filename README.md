@@ -1,5 +1,5 @@
 # Antivirus_Testing_Tool
-A basic Anti-virus Testing Tool for windows operating system supported Antivirus Softwares that tests web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease. *__KINDLY GO THROUGH THE README TO AVOID ANY CONFLICTS WHILE RUNNING THE PROGRAM__*.
+A basic Anti-virus Testing Tool for windows operating system supported Antivirus Softwares that tests web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease.<br> *__KINDLY GO THROUGH THE README TO AVOID ANY CONFLICTS WHILE RUNNING THE PROGRAM__*.
 
 For Improvements and Suggestions: rutujrunwal001@gmail.com OR Whatsapp:  7972080884
 
@@ -7,6 +7,11 @@ For Improvements and Suggestions: rutujrunwal001@gmail.com OR Whatsapp:  7972080
 Google may block the executable file download as the file itself is used to test antivirus softwares and is SAFE, the complete source code is available to re-assure and audit the safety. Any improvements or suggestions are welcome! <br>
 **To get the file:**  
 You may clone the whole repository or just press CTRL+j and click on "Keep Dangerous File".
+
+# Resources: 
+- EICAR: [EICAR](https://www.eicar.org/?page_id=3950)
+- AMTSO: [AMTSO](https://www.amtso.org/)
+- VirusTotal API: [API](https://developers.virustotal.com/v3.0/reference#getting-started)
 
 ### Up Next [What to expect in v1.7x[BETA] upto v2.xx]:
 - Updated Help section to solve all possible network and AV-configurational errors
@@ -49,7 +54,7 @@ __To Use the program kindly add it to exclusion list of the above listed AV's in
 
 V1.0 
  - Initial Release
- - Added EICAR testing file [Ref: https://www.eicar.org/?page_id=3950]
+ - Added EICAR testing file 
 
 V1.2
   - Major Polished Release
@@ -72,11 +77,12 @@ V1.6.1
   - Fixed Text overlapping caused by improper tkinter labels placement
 
 V1.6.2 [CURRENT]
-  - Added AMTSO standard Tests [Ref: https://www.amtso.org/]
+  - Added AMTSO standard Tests
   - Added File Uploading and Scanning based on VirusTotal API
-    - Requires Virus total API Key [Get a free virustotal API Key Here: https://developers.virustotal.com/v3.0/reference#getting-started]
+    - Requires Virus total API Key [Refer [Resources](#resources) to get a free one today!]
   - Removed current version source code [ To comply with Virus total Guidelines]
       - Will be availabe in repo as soon as next version (V1.6.3[BETA]) is added.
+
   
 
 
