@@ -20,7 +20,7 @@ You may clone the whole repository or just press CTRL+j and click on "Keep Dange
 - Better Documentation
 - FAQ's Section
 - __Known Issues__
-  - See Antivirus And Browser Conflicts Log for More Info 👇🏻
+  - See [Antivirus And Browser Conflicts](#anti-virus-and-browsers-conflicts) Log for More Info 👇🏻
 
 
 ## Future Development :
