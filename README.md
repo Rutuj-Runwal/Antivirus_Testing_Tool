@@ -6,6 +6,7 @@ For Improvements and Suggestions: rutujrunwal001@gmail.com OR Whatsapp:  7972080
 ### Note: 
 Google may block the executable file download as the file itself is used to test antivirus softwares and is SAFE, the complete source code is available to re-assure and audit the safety. Any improvements or suggestions are welcome! <br>
 **To get the file:**  
+[DOWNLOAD NOW!](https://github.com/Rutuj-Runwal/Antivirus_Testing_Tool/raw/main/AV_Tester_v1_62_BETA.exe)<br>
 You may clone the whole repository or just press CTRL+j and click on "Keep Dangerous File".
 
 # Resources: 
