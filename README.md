@@ -43,7 +43,7 @@ You may clone the whole repository or just press CTRL+j and click on "Keep Dange
   ## Anti-virus and Browsers Conflicts:
   - Resolve issues with Google safe browsing
   - Resolve issues with Windows smartscreen in EDGE
-  - __Known AV's false positives occuring due to pyinstaller modules will bw fixed from V1.6.3[COMMING SOON]!__<br>
+  - __Known AV's false positives (occurring due to crafty pyinstaller modules) will be fixed.In effect from V1.6.3[COMING SOON]!__<br>
   <del>- Known AV's False Positives :
     - McAfee
     - Microsoft Defender
