@@ -43,13 +43,13 @@ You may clone the whole repository or just press CTRL+j and click on "Keep Dange
   ## Anti-virus and Browsers Conflicts:
   - Resolve issues with Google safe browsing
   - Resolve issues with Windows smartscreen in EDGE
-  - Known AV's false positives occuring due to pyinstaller modules will bw fixed from V1.6.3[COMMING SOON]!
-  ~~- Known AV's False Positives :
+  - __Known AV's false positives occuring due to pyinstaller modules will bw fixed from V1.6.3[COMMING SOON]!__<br>
+  <del>- Known AV's False Positives :
     - McAfee
     - Microsoft Defender
     - K7 Antivirus
     - Norton
-    - Sophos <br>~~ 
+    - Sophos </del><br>
 __To Use the program kindly add it to exclusion list of the above listed AV's in our system[if any]. These false positives will be fixed in newer versions__
    
 # Version Log
