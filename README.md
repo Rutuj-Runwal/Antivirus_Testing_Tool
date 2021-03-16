@@ -1,6 +1,6 @@
 # Antivirus_Testing_Tool
-[![HitCount](http://hits.dwyl.com/Rutuj-Runwal/Antivirus_Testing_Tool.svg)](http://hits.dwyl.com/Rutuj-Runwal/Antivirus_Testing_Tool)<br>
-A basic Anti-virus Testing Tool for windows operating system supported Antivirus Softwares that tests web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease.<br> *__KINDLY GO THROUGH THE README TO AVOID ANY CONFLICTS WHILE RUNNING THE PROGRAM__*.
+<!--[![HitCount](http://hits.dwyl.com/Rutuj-Runwal/Antivirus_Testing_Tool.svg)](http://hits.dwyl.com/Rutuj-Runwal/Antivirus_Testing_Tool)<br>-->
+A basic Antivirus Testing Tool for Windows Operating System that tests supported Antivirus Softwares on the basis of web and Real Time Protection Modules. The tool is developed in python programming language with a basic GUI for testing Antivirus softwares with ease.<br> *__KINDLY GO THROUGH THE README TO AVOID ANY CONFLICTS WHILE RUNNING THE PROGRAM__*.
 
 For Improvements and Suggestions: rutujrunwal001@gmail.com OR Whatsapp:  7972080884
 
